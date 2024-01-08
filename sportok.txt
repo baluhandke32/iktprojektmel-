@@ -1,0 +1,4 @@
+vívás;2009;Alfréd;Los Angeles
+kerékpár;2021;Imre;Vlagyivosztok
+kerékpár;1998;Anna;Szöul
+ökölvívás;2007;Bálint;Berlin
