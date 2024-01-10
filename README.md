@@ -1,2 +1,4 @@
 # iktprojektmelo
-ikt projekt meló.benne van a címben. ez a repository annak
+írjatok mindannyian plusz 2 ipari forradalom idejéről származó találmányt ide.
+1. Gőzgép
+2. Vasútvonalfejlesztések
